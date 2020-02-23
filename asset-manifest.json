@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/indecision-app/static/css/main.778792b9.chunk.css",
+    "main.js": "/indecision-app/static/js/main.ee5fa277.chunk.js",
+    "main.js.map": "/indecision-app/static/js/main.ee5fa277.chunk.js.map",
+    "runtime-main.js": "/indecision-app/static/js/runtime-main.8d787059.js",
+    "runtime-main.js.map": "/indecision-app/static/js/runtime-main.8d787059.js.map",
+    "static/css/2.764ccc25.chunk.css": "/indecision-app/static/css/2.764ccc25.chunk.css",
+    "static/js/2.ecfd70bc.chunk.js": "/indecision-app/static/js/2.ecfd70bc.chunk.js",
+    "static/js/2.ecfd70bc.chunk.js.map": "/indecision-app/static/js/2.ecfd70bc.chunk.js.map",
+    "index.html": "/indecision-app/index.html",
+    "precache-manifest.cb489611cb254bada5fb924aaac20c63.js": "/indecision-app/precache-manifest.cb489611cb254bada5fb924aaac20c63.js",
+    "service-worker.js": "/indecision-app/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/indecision-app/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.778792b9.chunk.css.map": "/indecision-app/static/css/main.778792b9.chunk.css.map",
+    "static/js/2.ecfd70bc.chunk.js.LICENSE.txt": "/indecision-app/static/js/2.ecfd70bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d787059.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.ecfd70bc.chunk.js",
+    "static/css/main.778792b9.chunk.css",
+    "static/js/main.ee5fa277.chunk.js"
+  ]
+}
